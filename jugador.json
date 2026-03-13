@@ -1,0 +1,53 @@
+{
+    "nombre": "Nicol\u00e1s",
+    "nivel": 1,
+    "rango": "E",
+    "xp": 320,
+    "dias_consecutivos": 0,
+    "dias_requeridos": 1,
+    "ultima_vez": "2026-03-12",
+    "dias_sin_completar": 0,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "penalizacion_activa": [],
+    "misiones": [
+        {
+            "nombre": "100 Flexiones",
+            "xp": 50,
+            "completada": true
+        },
+        {
+            "nombre": "100 Abdominales",
+            "xp": 50,
+            "completada": true
+        },
+        {
+            "nombre": "100 Sentadillas",
+            "xp": 50,
+            "completada": true
+        },
+        {
+            "nombre": "Correr 10km",
+            "xp": 80,
+            "completada": true
+        },
+        {
+            "nombre": "Estudiar 2hs",
+            "xp": 60,
+            "completada": true
+        },
+        {
+            "nombre": "Leer 30min",
+            "xp": 30,
+            "completada": true
+        }
+    ],
+    "penalizaciones_pool": [
+        "No usar el celular por 1 hora",
+        "50 Flexiones de brazos",
+        "10 Dominadas",
+        "Correr 5km",
+        "100 Sentadillas",
+        "30 minutos de meditaci\u00f3n",
+        "Estudiar 1 hora sin distracciones"
+    ]
+}
