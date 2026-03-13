@@ -174,7 +174,7 @@ if st.session_state.pantalla == "notificacion_1":
             <div class="notif-title">⚠ NOTIFICACION ⚠</div>
             <div class="notif-text">
                 [ Misión Secreta. ]<br><br>
-                <b>「 Valor de los Debiles 」</b><br><br>
+                <b>「 Valor de los Débiles 」</b><br><br>
                 El Sistema te eligió.
             </div>
         </div>
