@@ -224,7 +224,7 @@ elif st.session_state.pantalla == "registro":
             <div class="notif-title">⚔ REGISTRO DE JUGADOR ⚔</div>
             <div class="notif-text">
                 [ El Sistema requiere identificacion. ]<br><br>
-                ¿Cual es tu nombre, Hunter?
+                ¿Cuál es tu nombre, Jugador?
             </div>
         </div>
     """, unsafe_allow_html=True)
@@ -615,8 +615,8 @@ elif st.session_state.pantalla == "sistema":
             paper_bgcolor="#000820",
             plot_bgcolor="#000820",
             font=dict(color="#ffffff"),
-            xaxis=dict(gridcolor="#00aaff22", color="#00aaff88"),
-            yaxis=dict(gridcolor="#00aaff22", color="#00aaff88"),
+            xaxis=dict(gridcolor="#001a33", color="#4d88aa"),
+            yaxis=dict(gridcolor="#001a33", color="#4d88aa"),
             margin=dict(l=20, r=20, t=40, b=20),
             height=250,
         )
@@ -643,11 +643,11 @@ elif st.session_state.pantalla == "sistema":
             paper_bgcolor="#000820",
             plot_bgcolor="#000820",
             font=dict(color="#ffffff"),
-            xaxis=dict(gridcolor="#00aaff22", color="#00aaff88"),
-            yaxis=dict(gridcolor="#00aaff22", color="#00aaff88"),
+            xaxis=dict(gridcolor="#001a33", color="#4d88aa"),
+            yaxis=dict(gridcolor="#001a33", color="#4d88aa"),
             margin=dict(l=20, r=20, t=40, b=20),
             height=250,
-            legend=dict(font=dict(color="#ffffff"))
+            legend=dict(font=dict(color="white"))
         )
         st.plotly_chart(fig_mis, use_container_width=True)
 

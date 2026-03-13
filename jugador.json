@@ -1,11 +1,11 @@
 {
     "nombre": "Nicol\u00e1s",
-    "nivel": 1,
+    "nivel": 2,
     "rango": "E",
-    "xp": 320,
+    "xp": 0,
     "dias_consecutivos": 0,
-    "dias_requeridos": 1,
-    "ultima_vez": "2026-03-12",
+    "dias_requeridos": 2,
+    "ultima_vez": "2026-03-13",
     "dias_sin_completar": 0,
     "timezone": "America/Argentina/Buenos_Aires",
     "penalizacion_activa": [],
@@ -13,32 +13,32 @@
         {
             "nombre": "100 Flexiones",
             "xp": 50,
-            "completada": true
+            "completada": false
         },
         {
             "nombre": "100 Abdominales",
             "xp": 50,
-            "completada": true
+            "completada": false
         },
         {
             "nombre": "100 Sentadillas",
             "xp": 50,
-            "completada": true
+            "completada": false
         },
         {
             "nombre": "Correr 10km",
             "xp": 80,
-            "completada": true
+            "completada": false
         },
         {
             "nombre": "Estudiar 2hs",
             "xp": 60,
-            "completada": true
+            "completada": false
         },
         {
             "nombre": "Leer 30min",
             "xp": 30,
-            "completada": true
+            "completada": false
         }
     ],
     "penalizaciones_pool": [
@@ -49,5 +49,14 @@
         "100 Sentadillas",
         "30 minutos de meditaci\u00f3n",
         "Estudiar 1 hora sin distracciones"
+    ],
+    "historial": [
+        {
+            "fecha": "2026-03-13",
+            "xp": 0,
+            "misiones_completadas": 0,
+            "total_misiones": 6,
+            "nivel": 2
+        }
     ]
 }
