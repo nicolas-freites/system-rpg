@@ -7,13 +7,17 @@ Convertí tus hábitos diarios en misiones, subí de nivel y enfrentá las penal
 
 ## 📸 Capturas
 
-| Notificación inicial | Panel principal |
+| Notificación inicial | Segunda notificación |
 |---|---|
-| ![Notificacion](screenshots/brave_screenshot_localhost.png) | ![Panel](screenshots/brave_screenshot_localhost__3_.png) |
+| ![Notificacion1](screenshots/notificacion1.png) | ![Notificacion2](screenshots/notificacion2.png) |
 
 | Registro de Jugador | Level Up |
 |---|---|
-| ![Registro](screenshots/brave_screenshot_localhost__4_.png) | ![LevelUp](screenshots/brave_screenshot_localhost__3_.png) |
+| ![Registro](screenshots/registro.png) | ![LevelUp](screenshots/levelup.png) |
+
+| Misiones diarias | |
+|---|---|
+| ![Misiones](screenshots/misiones.png) | |
 
 ---
 
