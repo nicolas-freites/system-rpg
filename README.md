@@ -9,15 +9,15 @@ Convertí tus hábitos diarios en misiones, subí de nivel y enfrentá las penal
 
 | Notificación inicial | Segunda notificación |
 |---|---|
-| ![Notificacion1](screenshots/notificacion1.png) | ![Notificacion2](screenshots/notificacion2.png) |
+| ![Notificacion1](screenshots/pantalla1.png) | ![Notificacion2](screenshots/pantalla2.png) |
 
 | Registro de Jugador | Level Up |
 |---|---|
-| ![Registro](screenshots/registro.png) | ![LevelUp](screenshots/levelup.png) |
+| ![Registro](screenshots/registrojugador.png) | ![LevelUp](screenshots/level-up.png) |
 
 | Misiones diarias | |
 |---|---|
-| ![Misiones](screenshots/misiones.png) | |
+| ![Misiones](screenshots/misionescheck.png) | |
 
 ---
 
